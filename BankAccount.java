@@ -1,5 +1,3 @@
-package bankingapp;
-
 public class BankAccount {
     private String accountNumber;
     private String accountHolderName;
