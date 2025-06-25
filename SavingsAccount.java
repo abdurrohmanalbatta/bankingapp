@@ -1,4 +1,3 @@
-package bankingapp;
 
 public class SavingsAccount extends BankAccount {
     private double withdrawalLimit;
